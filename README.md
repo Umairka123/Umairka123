@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Umairka123
-- 👀 I’m interested in F1, Python, Java and Basketball
-- 🌱 I’m currently learning Java and Python
-- 📫 How to reach me Discord
+Arithmetic is my first "bot". Please do try it! You can message me on Discord (Umairka123#6276). 
 
-<!---
-Umairka123/Umairka123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I will also one day learn how to make a GUI but if you know how to please send me your version!
+
+Enjoy!
